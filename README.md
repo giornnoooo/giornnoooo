@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @giornnoooo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 303/py
+- 🌱 I’m currently learning 303/py
+- 💞️ I’m looking to collaborate on 404/jv
+- 📫 How to reach me discord
+- 
 
 <!---
 giornnoooo/giornnoooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
